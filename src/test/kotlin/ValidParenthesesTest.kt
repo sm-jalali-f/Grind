@@ -4,6 +4,5 @@ import org.junit.jupiter.api.Test
 class ValidParenthesesTest {
     @Test
     fun isValid() {
-        ass
-    }
+            }
 }
