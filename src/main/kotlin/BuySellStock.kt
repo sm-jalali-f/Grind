@@ -41,7 +41,7 @@ class BuySellStock {
 
         return maxProfit
     }
-    /*fun maxProfit(prices: IntArray): Int {
+    fun maxProfit(prices: IntArray): Int {
         var maxProfit = 0
         var minValue = 10001
         for (i in prices.indices) {
@@ -55,5 +55,5 @@ class BuySellStock {
         }
         return maxProfit
 
-    }*/
+    }
 }
