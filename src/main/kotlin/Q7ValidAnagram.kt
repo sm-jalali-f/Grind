@@ -23,7 +23,7 @@ package org.example
  *
  *
  * */
-class ValidAnagram {
+class Q7ValidAnagram {
     /*best one*/
     fun isAnagram(s: String, t: String): Boolean {
 

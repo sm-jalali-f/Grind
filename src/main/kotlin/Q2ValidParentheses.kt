@@ -3,7 +3,7 @@ package org.example
 import java.util.EmptyStackException
 import java.util.Stack
 
-class ValidParentheses {
+class Q2ValidParentheses {
     fun isValid(s: String): Boolean {
         if (s.length % 2 != 0)
             return false

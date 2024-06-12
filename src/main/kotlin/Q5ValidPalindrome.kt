@@ -28,7 +28,7 @@ import kotlin.math.ceil
  *       1 <= s.length <= 2 * 105
  *       s consists only of printable ASCII characters.
  * */
-class ValidPalindrome {
+class Q5ValidPalindrome {
     fun mySolution(s: String): Boolean {
         val finalString = s.replace(Regex("[^a-zA-Z0-9]"), "").toLowerCase()
         return finalString.substring(0, (finalString.length / 2)) == finalString.substring(

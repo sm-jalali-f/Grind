@@ -1,7 +1,5 @@
 package org.example
 
-import org.w3c.dom.NodeList
-
 /**
  * Example:
  * var li = ListNode(5)
@@ -12,7 +10,7 @@ import org.w3c.dom.NodeList
  * }
  */
 
-class MergeTwoSortedList {
+class Q3MergeTwoSortedList {
 
     /**
      * My Solution:

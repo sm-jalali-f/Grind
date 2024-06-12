@@ -1,8 +1,5 @@
 package org.example
 
-import kotlin.math.log
-import kotlin.math.pow
-
 /**
  * 226. Invert Binary Tree
  *
@@ -23,7 +20,7 @@ import kotlin.math.pow
  * Constraints:
  *      The number of nodes in the tree is in the range [0, 100].
  *       -100 <= Node.val <= 100*/
-class InvertBinaryTree {
+class Q6InvertBinaryTree {
 
     /** Best Solution
      * Time:107ms

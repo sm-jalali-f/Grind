@@ -26,7 +26,7 @@ package org.example
  *       0 <= sr < m
  *       0 <= sc < n
  * */
-class FloodFill {
+class Q9FloodFill {
     /**
      * time: 245ms
      * memory: 37.86 MB*/

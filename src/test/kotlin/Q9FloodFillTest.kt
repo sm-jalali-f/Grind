@@ -1,11 +1,9 @@
-import org.example.FloodFill
+import org.example.Q9FloodFill
 import org.junit.jupiter.api.Test
 
-import org.junit.jupiter.api.Assertions.*
+class Q9FloodFillTest {
 
-class FloodFillTest {
-
-    var sample = FloodFill()
+    var sample = Q9FloodFill()
 
     @Test
     fun floodFill() {

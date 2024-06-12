@@ -1,14 +1,12 @@
-import org.example.MergeTwoSortedList
-import org.example.MergeTwoSortedList.ListNode
+import org.example.Q3MergeTwoSortedList
+import org.example.Q3MergeTwoSortedList.ListNode
 import org.junit.jupiter.api.Test
 
 import org.junit.jupiter.api.Assertions.*
-import org.w3c.dom.NodeList
-import java.util.LinkedList
 
-class MergeTwoSortedListTest {
+class Q3MergeTwoSortedListTest {
 
-    val merge = MergeTwoSortedList()
+    val merge = Q3MergeTwoSortedList()
 
     @Test
     fun mergeTwoLists() {

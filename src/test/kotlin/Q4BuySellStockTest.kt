@@ -1,11 +1,11 @@
-import org.example.BuySellStock
+import org.example.Q4BuySellStock
 import org.junit.jupiter.api.Test
 
 import org.junit.jupiter.api.Assertions.*
 
-class BuySellStockTest {
+class Q4BuySellStockTest {
 
-    var sample = BuySellStock()
+    var sample = Q4BuySellStock()
 
     @Test
     fun maxProfit() {
