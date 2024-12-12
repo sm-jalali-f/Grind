@@ -1,8 +1,5 @@
 package org.example
 
-import kotlin.math.max
-import kotlin.math.min
-
 /**
  * 704. Binary Search
  * @link: https://leetcode.com/problems/binary-search/description/
@@ -25,7 +22,7 @@ import kotlin.math.min
  *      All the integers in nums are unique.
  *      nums is sorted in ascending order.
  * */
-class BinarySearch {
+class Q8BinarySearch {
 
     fun search(nums: IntArray, target: Int): Int {
         var l = 0

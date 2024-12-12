@@ -20,7 +20,7 @@ package org.example
  *     1 <= prices.length <= 105
  *     0 <= prices[i] <= 104
  *     */
-class BuySellStock {
+class Q4BuySellStock {
 
     fun goodAnswer(prices: IntArray): Int {
         if (prices.isEmpty()) return 0

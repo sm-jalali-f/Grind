@@ -22,7 +22,7 @@ package org.example
  * Output: [0,1]
  */
 
-class TwoSum {
+class Q1TwoSum {
     fun mySimpleSolution(nums: IntArray, target: Int): IntArray {
         val complement = nums.map { target - it }
         for (i in complement.indices) {

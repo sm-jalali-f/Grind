@@ -1,11 +1,11 @@
-import org.example.BinarySearch
+import org.example.Q8BinarySearch
 import org.junit.jupiter.api.Test
 
 import org.junit.jupiter.api.Assertions.*
 
-class BinarySearchTest {
+class Q8BinarySearchTest {
 
-    val sample = BinarySearch()
+    val sample = Q8BinarySearch()
     @Test
     fun search() {
         assertEquals(4,sample.search(intArrayOf(-1,0,3,5,9,12), target = 9))

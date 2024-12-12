@@ -1,11 +1,11 @@
-import org.example.ValidAnagram
+import org.example.Q7ValidAnagram
 import org.junit.jupiter.api.Test
 
 import org.junit.jupiter.api.Assertions.*
 
-class ValidAnagramTest {
+class Q7ValidAnagramTest {
 
-    val sample = ValidAnagram()
+    val sample = Q7ValidAnagram()
     @Test
     fun isAnagram() {
         assertEquals(true,sample.isAnagram("anagram","nagaram"))
